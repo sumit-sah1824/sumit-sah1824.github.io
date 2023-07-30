@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sumit Sah / MatheMatik"
+title                    : "Sumit Sah"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sumit Sah"
 description              : &description "personal description"
 url                      : https://sumit-sah1824.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
