@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc Honors in Mathematics, University of North Bengal, 2015
+* M.Sc in Mathematics, Banaras Hindu University, 2018
+* Ph.D in Federated Learning, IIT Dharwad, 2025 (expected)
 
 Work experience
 ======
