@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "Pattern Recognition & Machine Learning (TA)"
 collection: teaching assistant
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of E.E.C.E, IIT Dharwad"
 date: 2024-01-01
