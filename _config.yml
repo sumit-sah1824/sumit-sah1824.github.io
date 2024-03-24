@@ -85,8 +85,8 @@ author:
   bio              : "Research Scholar at IIT Dharwad"
   location         : "Dharwad, Karnataka"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "sumitsah1824@yahoo.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
