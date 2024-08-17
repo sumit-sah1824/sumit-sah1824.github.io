@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sumit.sah1824@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/axiomfive5
@@ -41,10 +41,8 @@ profiles:
     url: https://github.com/sumit-sah1824
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sumit-sah1824/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: assets/media/icons/youtube-svgrepo.svg
+    url: https://www.youtube.com/@sumIITDh
 
 interests:
   - Optimization for Machine Learning
