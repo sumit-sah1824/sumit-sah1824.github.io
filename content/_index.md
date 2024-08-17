@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        With a strong foundation in mathematics, I have developed a keen interest in the theoretical aspects of machine learning and artificial intelligence. My work aims to advance the understanding and application of optimization techniques in decentralized and federated learning environments, contributing to more efficient and scalable AI systems.
-
-My academic journey has equipped me with a diverse skill set, including proficiency in mathematical modeling, algorithm design, and data analysis. I am passionate about pushing the boundaries of current research and exploring innovative solutions to complex problems in the field of AI.
-
-In addition to my research, I am committed to sharing knowledge and fostering a collaborative learning environment. I am enthusiastic about teaching and mentoring students, helping them to develop a deep understanding of mathematical and computational concepts.
+        With a strong foundation in mathematics, I have developed a keen interest in the theoretical aspects of machine learning and artificial intelligence. My work aims to advance the understanding and application of optimization techniques in decentralized and federated learning environments, contributing to more efficient and scalable AI systems. My academic journey has equipped me with a diverse skill set, including proficiency in mathematical modelling, algorithm design, and data analysis. I am passionate about pushing the boundaries of current research and exploring innovative solutions to complex problems in AI. In addition to my research, I am committed to sharing knowledge and fostering a collaborative learning environment. I am enthusiastic about teaching and mentoring students, helping them to develop a deep understanding of mathematical and computational concepts.
 
 
     design:
