@@ -182,9 +182,3 @@ awards:
 ## About Me
 
 I am pursuing a PhD in Artificial Intelligence at IIT Dharwad, where my research focuses on Federated Optimization, Optimization for Machine Learning, and the Theory of Deep Learning. I hold an M.Sc. in Mathematics from Banaras Hindu University and a B.Sc. in Mathematics (Hons) from the University of North Bengal.
-
-With a strong foundation in mathematics, I have developed a keen interest in the theoretical aspects of machine learning and artificial intelligence. My work aims to advance the understanding and application of optimization techniques in decentralized and federated learning environments, contributing to more efficient and scalable AI systems.
-
-My academic journey has equipped me with a diverse skill set, including proficiency in mathematical modelling, algorithm design, and data analysis. I am passionate about pushing the boundaries of current research and exploring innovative solutions to complex problems in the field of AI.
-
-In addition to my research, I am committed to sharing knowledge and fostering a collaborative learning environment. I am enthusiastic about teaching and mentoring students, helping them to develop a deep understanding of mathematical and computational concepts.
