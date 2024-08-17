@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sumit Sah
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Su-mit
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sumit
+last_name: Sah
 
 # Status emoji
 status:
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Optimization for Machine Learning
+  - Distributed Optimization for Machine Learning
+  - Theory of Deep Learning
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Indian Institute of Technology, Dharwad
+    date_start: 2020-08-28
+    date_end: 2025-08-28
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
