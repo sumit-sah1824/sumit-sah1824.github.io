@@ -48,12 +48,12 @@ profiles:
 
 interests:
   - Optimization for Machine Learning
-  - Distributed Optimization for Machine Learning
+  - Distributed Optimization for ML
   - Theory of Deep Learning
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Indian Institute of Technology, Dharwad
+    institution: Indian Institute of Technology, Dharwad (IITDh)
     date_start: 2020-08-28
     date_end: 2025-08-28
     summary: |
@@ -61,23 +61,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Mathematics
+    institution: Banaras Hindu University (BHU)
+    date_start: 2016-06-01
+    date_end: 2018-07-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 7.73/10.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Mathematics Hons.
+    institution: University of North Bengal
+    date_start: 2012-06-01
+    date_end: 2015-06-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 51/100
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
