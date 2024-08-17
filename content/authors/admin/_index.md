@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/axiomfive5
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/la_suma_eso/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sumit-sah1824
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sumit-sah1824/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Indian Institute of Technology, Dharwad (IITDh)
+    institution: Indian Institute of Technology, Dharwad
     date_start: 2020-08-28
     date_end: 2025-08-28
     summary: |
@@ -73,7 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Mathematics Hons.
-    institution: University of North Bengal
+    institution: University of North Bengal (NBU)
     date_start: 2012-06-01
     date_end: 2015-06-01
     summary: |
