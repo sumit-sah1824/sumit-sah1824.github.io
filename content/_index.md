@@ -38,7 +38,7 @@ sections:
         With a strong foundation in mathematics, I have developed a keen interest in the theoretical aspects of machine learning and artificial intelligence. My work aims to advance the understanding and application of optimization techniques in decentralized and federated learning environments, contributing to more efficient and scalable AI systems. My academic journey has equipped me with a diverse skill set, including proficiency in mathematical modelling, algorithm design, and data analysis. I am passionate about pushing the boundaries of current research and exploring innovative solutions to complex problems in AI. In addition to my research, I am committed to sharing knowledge and fostering a collaborative learning environment. I am enthusiastic about teaching and mentoring students, helping them to develop a deep understanding of mathematical and computational concepts.
 
 
-    design:
+    # design:
       columns: '1'
   - block: collection
     id: papers
@@ -48,7 +48,7 @@ sections:
         folders:
           - publication
         featured_only: true
-    design:
+    # design:
       view: article-grid
       columns: 2
   - block: collection
@@ -59,7 +59,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    design:
+    # design:
       view: citation
   - block: collection
     id: talks
@@ -68,7 +68,7 @@ sections:
       filters:
         folders:
           - event
-    design:
+    # design:
       view: article-grid
       columns: 1
   - block: collection
